@@ -7,3 +7,4 @@ Com o VS Code aberto e o Git pronto no terminal, o desafio da noite era aprender
 Essa turma deu o melhor de si, para não só aprimorar o código mas sim, saberem trabalhar em equipe, mas um tempo depois começou uma pequena discução, e o código virou uma grande confusão, tudo ficou embaralhado e perdido ao ponto de que na raiva e na confusão acabaram enviando o arquivo para a mulher.
 
 E a história continua com o próximo commit...
+teste de continuidade feito por ewiston
