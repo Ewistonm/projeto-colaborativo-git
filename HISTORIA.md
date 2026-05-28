@@ -1,2 +1,3 @@
 # Era uma vez na aula de Ambientes de Desenvolvimento... 
 e a tentativa numero dois da aula colaborativa.
+Dessa vez todos estão com esperanças de dar certo
