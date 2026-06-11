@@ -15,3 +15,4 @@ Muitos alunos ficavam confusos com a situação, a IA havia embaralhado alguns c
 
 o fuso-horário, fazendo assim que tudo que continha sistemas desse pane no mundo todo, consequentemente, alguem teria que resolver isso, uma instituição, grupo ou alguém...
 Teste de conexão
+Exemplo de PullRequest
